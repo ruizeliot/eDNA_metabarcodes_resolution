@@ -1,4 +1,4 @@
-# eDNA_metabarcodes_resolution
+# Evaluating the taxonomic resolution of metabarcodes based on a reference database
 
 Scripts, functions and graphs accompanying the whole R project with data and outputs deposited on: https://doi.org/10.6084/m9.figshare.26014840
 
